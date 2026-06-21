@@ -1,6 +1,6 @@
 # License
 
-**Cuerpos unidos en amor**
+**Cuerpos unidos en amor, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

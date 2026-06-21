@@ -1,4 +1,4 @@
-# Cuerpos unidos en amor
+# Cuerpos unidos en amor, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Cuerpos unidos en amor |
+| **Title** | Cuerpos unidos en amor, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpos-unidos-en-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cuerpos unidos en amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpos-unidos-en-amor/) |
+| **Get License** | [Request Licensing for Cuerpos unidos en amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpos-unidos-en-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuerpos unidos en amor, perdiendo la razón
+> Bajo las luces de Madrid, me robas la visión
+> You drive me crazy, baby, sube la presión
+> Bailando suave y pegaditos, tú eres mi adicción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `46f6ee27a90329df6c4404b357a06d3ae98e1236d33fc6ff62d441a387e20ff4` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

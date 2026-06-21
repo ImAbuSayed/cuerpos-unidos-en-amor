@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpos unidos en amor, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Cuerpos unidos en amor, Vol. 2** (cuerpos-unidos-en-amor-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:22:33.975100 | `v1` | `46f6ee27a90329df6c4404b357a06d3ae98e1236d33fc6ff62d441a387e20ff4` | `2fa4b8ffa76a89b2ff25f2afd0788edd1e500f4d47437c362d96e45a14bc0ef8` | `2026-06-21_cuerpos-unidos-en-amor-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
